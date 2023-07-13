@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Barrio1",
+    "CosteM2": 165.25
+  },
+  {
+    "Id": 2,
+    "Nombre": "Barrio2",
+    "CosteM2": 200.37
+  }
+]

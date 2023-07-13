@@ -1,0 +1,14 @@
+{
+  "Terraza": {
+    "precioM2": 20.35
+  },
+  "Jardin": {
+    "precioM2": 15.6
+  },
+  "Garaje": {
+    "precio": 1300
+  },
+  "Trastero": {
+    "precioM2": 10
+  }
+}

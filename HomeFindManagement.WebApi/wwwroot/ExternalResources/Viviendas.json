@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 1,
+    "IdBarrio": 1,
+    "M2": 90,
+    "Añadidos": {
+      "Terraza": 15,
+      "Jardin": 20,
+      "Garaje": 0,
+      "Trastero": 8
+    }
+  }
+]
